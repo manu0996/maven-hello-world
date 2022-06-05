@@ -8,10 +8,10 @@
 <body>
   <div class="jumbotron" style="background-color:white">
      <h1 class="text-center">Welcome to</h1>
-      <img src="https://www.threatstack.com/wp-content/uploads/2017/06/docker-cloud-twitter-card.png" alt="Spidertocat"
+      <img src="https://miro.medium.com/max/1400/1*iKuaNfxgZSTe_J2x3PYRUg.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h1 class="text-center">My job is done with jenkins and Docker</h1>
-      <h2 class="text-center">Now you are with Krypton</h2>
+      <h1 class="text-center">My job is done with jenkins</h1>
+      <h2 class="text-center">Now you are with Krypton Chill guys</h2>
   </div>
 </body>
 </html>
